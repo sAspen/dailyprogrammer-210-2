@@ -1,10 +1,3 @@
-/* 
- * File:   netpbm.h
- * Author: NJ
- *
- * Created on 21. april 2015, 23:12
- */
-
 #ifndef NETPBM_H
 #define	NETPBM_H
 
